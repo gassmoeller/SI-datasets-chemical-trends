@@ -1,5 +1,5 @@
 # SI-datasets-chemical-trends
-Input files and shared libraries to reproduces the results of Dannberg &amp; Gassmoeller (2018): Chemical trends in ocean islands explained by plume–slab interaction:
+Input files and shared libraries to reproduces the results of Dannberg &amp; Gassmoeller (2018): Chemical trends in ocean islands explained by plume–slab interaction ([https://doi.org/10.1073/pnas.1714125115](https://doi.org/10.1073/pnas.1714125115)):
 
 The .h and .cc files contain the shared libararies used for the 2d model runs and can be compiled using
 the file CMakeLists.txt as described in the [ASPECT manual](http://www.math.clemson.edu/~heister/manual.pdf). 
